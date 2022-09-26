@@ -79,7 +79,7 @@ const Navbar = () => {
                     </p>
                 </li>
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
-                    <a className='flex justify-between items-center w-full text-gray-300' href="https://shorturl.at/azARZ" target="_blank">
+                    <a className='flex justify-between items-center w-full text-gray-300' href="https://www.mediafire.com/file/jze3zunxbxgxs55/Del_Rosario_Daniel_Allen-Resume.pdf/file" target="_blank">
                         Resume <BsFillPersonLinesFill size={30} />
                     </a>
                 </li>
