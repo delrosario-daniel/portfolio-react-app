@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-react-app/static/css/main.16819019.css",
-    "main.js": "/portfolio-react-app/static/js/main.c48a0ec8.js",
+    "main.js": "/portfolio-react-app/static/js/main.a856be27.js",
     "static/media/focus-optical.png": "/portfolio-react-app/static/media/focus-optical.a8a0ded44c7b05573ea0.png",
     "static/media/nft-marketplace-4.png": "/portfolio-react-app/static/media/nft-marketplace-4.1c11ee3718f257038923.png",
     "static/media/nft-marketplace-3.png": "/portfolio-react-app/static/media/nft-marketplace-3.c268612ea704a3e21dde.png",
@@ -36,10 +36,10 @@
     "static/media/logo.png": "/portfolio-react-app/static/media/logo.e46c8714c1f124e1dae6.png",
     "index.html": "/portfolio-react-app/index.html",
     "main.16819019.css.map": "/portfolio-react-app/static/css/main.16819019.css.map",
-    "main.c48a0ec8.js.map": "/portfolio-react-app/static/js/main.c48a0ec8.js.map"
+    "main.a856be27.js.map": "/portfolio-react-app/static/js/main.a856be27.js.map"
   },
   "entrypoints": [
     "static/css/main.16819019.css",
-    "static/js/main.c48a0ec8.js"
+    "static/js/main.a856be27.js"
   ]
 }
