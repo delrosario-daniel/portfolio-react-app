@@ -1,4 +1,5 @@
 import React from 'react'
+import {FiDownload} from 'react-icons/fi'
 
 const About = () => {
   return (
@@ -24,6 +25,14 @@ const About = () => {
                     I am presented with, ultimately benefiting the operations of the organization that 
                     I will work for.
                     </p>
+                    <a className='flex justify-between items-center w-full text-gray-300' href="https://shorturl.at/azARZ" target="_blank">
+                        <button className='md:hidden text-white group border-2 px-6 py-3 my-6 flex items-center hover:bg-[#F6BA26] hover:border-[#F6BA26] hover:text-black'>
+                            Resume 
+                            <span className='group:hover:rotate-90 duration-300'>
+                                <FiDownload className='ml-3 hover:'/> 
+                            </span>
+                        </button>
+                    </a>
                 </div>
             </div>
         </div>
