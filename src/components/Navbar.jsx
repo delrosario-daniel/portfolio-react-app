@@ -20,7 +20,7 @@ const Navbar = () => {
         {/* menu */}
         <ul className='hidden md:flex'>
             <li>
-                <Link to="/" smooth={true} duration={500}>
+                <Link to="/portfolio-react-app" smooth={true} duration={500}>
                     Home
                 </Link>
             </li>
@@ -44,7 +44,7 @@ const Navbar = () => {
         {/* mobile menu */}
         <ul className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#0a192f] flex flex-col justify-center items-center'}>
             <li className='py-6 text-4xl'>
-                <Link onClick={handleClick} to="/" smooth={true} duration={500}>
+                <Link onClick={handleClick} to="/portfolio-react-app" smooth={true} duration={500}>
                     Home
                 </Link>
             </li>

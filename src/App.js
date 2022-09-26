@@ -37,7 +37,7 @@ function App() {
         <Work/> */}
 
         <Routes>
-          <Route path='/' element={<Home />} />
+          <Route path='/portfolio-react-app' element={<Home />} />
           <Route path='/about' element={<About />} />
           <Route path='/work' element={<Work />} />
 
