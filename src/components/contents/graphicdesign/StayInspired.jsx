@@ -1,7 +1,9 @@
 import React from 'react'
-import StayInspiredImg1 from '../../../assets/StayInspired/stay-inspired-1.png'
+// import StayInspiredImg1 from '../../../assets/StayInspired/stay-inspired-1.png'
 
 const StayInspired = () => {
+  const StayInspiredImg1 = 'https://res.cloudinary.com/dbkpnics7/image/upload/v1664262125/portfolio-react/StayInspired/stay-inspired-1_mri9em.png'
+
   return (
     <div name='stayinspired' className='w-full h-max bg-[#0a192f] text-gray-300 pt-20'>
         <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full pb-6'>

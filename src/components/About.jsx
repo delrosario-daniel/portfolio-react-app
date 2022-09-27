@@ -25,6 +25,12 @@ const About = () => {
                     I am presented with, ultimately benefiting the operations of the organization that 
                     I will work for.
                     </p>
+                    <p className='md:hidden text-[#F6BA26] font-bold mt-6'>
+                        Email me at:
+                    </p>
+                    <p className='md:hidden text-white font-bold mb-6'>
+                        delrosario.danielallen@gmail.com
+                    </p>
                     <a className='flex justify-between items-center w-full text-gray-300' href="https://www.mediafire.com/file/jze3zunxbxgxs55/Del_Rosario_Daniel_Allen-Resume.pdf/file" target="_blank">
                         <button className='md:hidden text-white group border-2 px-6 py-3 my-6 flex items-center hover:bg-[#F6BA26] hover:border-[#F6BA26] hover:text-black'>
                             Resume 

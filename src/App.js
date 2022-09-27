@@ -12,6 +12,16 @@ import DesignTrends from "./components/contents/graphicdesign/DesignTrends";
 import StayInspired from "./components/contents/graphicdesign/StayInspired";
 import TechTrends from "./components/contents/graphicdesign/TechTrends";
 
+import Sketches from "./components/contents/graphicarts/Sketches";
+import HorseRider from "./components/contents/graphicarts/HorseRider";
+import ShinYuna from "./components/contents/graphicarts/ShinYuna";
+
+import GamingLogo from "./components/contents/logocreation/GamingLogo";
+import IBayanihanLogo from "./components/contents/logocreation/IBayanihanLogo";
+import SmartParking from "./components/contents/logocreation/SmartParking";
+
+import Photography from "./components/contents/photography/Photography";
+
 import {
   BrowserRouter as Router,
   Switch,
@@ -48,15 +58,30 @@ function App() {
           <Route path='/about' element={<About />} />
           <Route path='/work' element={<Work />} />
 
+          {/* UI/UX Design */}
           <Route path='/focusoptical' element={< FocusOptical />} />
           <Route path='/ibayanihan' element={< IBayanihan />} />
           <Route path='/nftmarketplace' element={< NFTMarketplace />} />
           <Route path='/srmsmobile' element={< SRMSMobile />} />
           <Route path='/srmsweb' element={< SRMSWeb />} />
 
+          {/* Graphic Designs */}
           <Route path='/designtrends' element={< DesignTrends />} />
           <Route path='/stayinspired' element={< StayInspired />} />
           <Route path='/techtrends' element={< TechTrends />} />
+
+          {/* Graphic Arts */}
+          <Route path='/sketches' element={< Sketches />} />
+          <Route path='/horserider' element={< HorseRider />} />
+          <Route path='/shinyuna' element={< ShinYuna />} />
+
+          {/* Logo Creation */}
+          <Route path='/gaminglogo' element={< GamingLogo />} />
+          <Route path='/ibayanihanlogo' element={< IBayanihanLogo />} />
+          <Route path='/smartparking' element={< SmartParking />} />
+
+          {/* Photography */}
+          <Route path='/photography' element={< Photography />} />
         </Routes>
         </div>
     </Router>

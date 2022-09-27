@@ -1,8 +1,11 @@
 import React from 'react'
-import DesignTrendsImg1 from '../../../assets/DesignTrends/design-trends-1.png'
-import DesignTrendsImg2 from '../../../assets/DesignTrends/design-trends-2.png'
+// import DesignTrendsImg1 from '../../../assets/DesignTrends/design-trends-1.png'
+// import DesignTrendsImg2 from '../../../assets/DesignTrends/design-trends-2.png'
 
 const DesignTrends = () => {
+  const DesignTrendsImg1 = 'https://res.cloudinary.com/dbkpnics7/image/upload/v1664262189/portfolio-react/DesignTrends/design-trends-1_oc4dfb.png'
+  const DesignTrendsImg2 = 'https://res.cloudinary.com/dbkpnics7/image/upload/v1664262131/portfolio-react/DesignTrends/design-trends-2_m8liic.png'
+
   return (
     <div name='designtrends' className='w-full h-max bg-[#0a192f] text-gray-300 pt-20'>
         <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full pb-6'>

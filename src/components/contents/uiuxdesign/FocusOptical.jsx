@@ -1,13 +1,15 @@
 import React from 'react'
-import FocusImg from '../../../assets/FocusOptical/focus-optical.png'
-import FocusImg1 from '../../../assets/FocusOptical/focus-optical-1.png'
-import FocusImg2 from '../../../assets/FocusOptical/focus-optical-2.png'
-import FocusImg3 from '../../../assets/FocusOptical/focus-optical-3.png'
-import FocusImg4 from '../../../assets/FocusOptical/focus-optical-4.png'
-import FocusImg5 from '../../../assets/FocusOptical/focus-optical-5.png'
-import FocusImg6 from '../../../assets/FocusOptical/focus-optical-6.png'
+// import FocusImg from '../../../assets/FocusOptical/focus-optical.png'
+// import FocusImg1 from '../../../assets/FocusOptical/focus-optical-1.png'
+// import FocusImg2 from '../../../assets/FocusOptical/focus-optical-2.png'
+// import FocusImg3 from '../../../assets/FocusOptical/focus-optical-3.png'
+// import FocusImg4 from '../../../assets/FocusOptical/focus-optical-4.png'
+// import FocusImg5 from '../../../assets/FocusOptical/focus-optical-5.png'
+// import FocusImg6 from '../../../assets/FocusOptical/focus-optical-6.png'
 
 const FocusOptical = () => {
+  const FocusImg = 'https://res.cloudinary.com/dbkpnics7/image/upload/v1664267255/portfolio-react/FocusOptical/focus-optical-low_p4bbmm.png'
+
   return (
     <div name='focusoptical' className='w-full h-max bg-[#0a192f] text-gray-300 pt-20'>
         <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full pb-6'>
