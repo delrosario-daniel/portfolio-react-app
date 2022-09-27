@@ -1,45 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio-react-app/static/css/main.16819019.css",
-    "main.js": "/portfolio-react-app/static/js/main.baf5dea1.js",
-    "static/media/focus-optical.png": "/portfolio-react-app/static/media/focus-optical.a8a0ded44c7b05573ea0.png",
-    "static/media/nft-marketplace-4.png": "/portfolio-react-app/static/media/nft-marketplace-4.1c11ee3718f257038923.png",
-    "static/media/nft-marketplace-3.png": "/portfolio-react-app/static/media/nft-marketplace-3.c268612ea704a3e21dde.png",
-    "static/media/nft-marketplace-5.png": "/portfolio-react-app/static/media/nft-marketplace-5.c2b36906b1da3266cfdb.png",
-    "static/media/nft-marketplace-2.png": "/portfolio-react-app/static/media/nft-marketplace-2.3d01d4a5ebf2ce342605.png",
-    "static/media/iBayanihan-1.png": "/portfolio-react-app/static/media/iBayanihan-1.46f268c0bc966c276792.png",
-    "static/media/focus-optical-4.png": "/portfolio-react-app/static/media/focus-optical-4.d4f1a60ad4df1d09895a.png",
-    "static/media/focus-optical-3.png": "/portfolio-react-app/static/media/focus-optical-3.cf2936a4453e38c3df32.png",
-    "static/media/focus-optical-1.png": "/portfolio-react-app/static/media/focus-optical-1.5f9db74c58b107dee78c.png",
-    "static/media/focus-optical-5.png": "/portfolio-react-app/static/media/focus-optical-5.febd0953fc65b4648800.png",
-    "static/media/focus-optical-6.png": "/portfolio-react-app/static/media/focus-optical-6.2c7cc32e82d48f71197a.png",
-    "static/media/focus-optical-2.png": "/portfolio-react-app/static/media/focus-optical-2.e08bd5469412445e1d65.png",
+    "main.css": "/portfolio-react-app/static/css/main.25b4c2a8.css",
+    "main.js": "/portfolio-react-app/static/js/main.cef2f96b.js",
     "static/media/srms-mobile-1.png": "/portfolio-react-app/static/media/srms-mobile-1.70367b0b41a5fc3a571f.png",
-    "static/media/iBayanihan-3.png": "/portfolio-react-app/static/media/iBayanihan-3.7086af82fe3db951b9e7.png",
-    "static/media/iBayanihan-2.png": "/portfolio-react-app/static/media/iBayanihan-2.b0f45fbedf91d492a932.png",
-    "static/media/iBayanihan-5.png": "/portfolio-react-app/static/media/iBayanihan-5.ca38d81d6f8db33825d8.png",
-    "static/media/iBayanihan-4.png": "/portfolio-react-app/static/media/iBayanihan-4.60ff1845c363bb7b90fe.png",
-    "static/media/nft-marketplace-1.png": "/portfolio-react-app/static/media/nft-marketplace-1.2639c91bd21ec2066ac8.png",
     "static/media/srms-mobile-3.png": "/portfolio-react-app/static/media/srms-mobile-3.81447c9214d595b16173.png",
-    "static/media/srms-web-5.png": "/portfolio-react-app/static/media/srms-web-5.96aa9d818092933d12b1.png",
-    "static/media/design-trends-2.png": "/portfolio-react-app/static/media/design-trends-2.c856d070ef5c00b95245.png",
-    "static/media/srms-web-4.png": "/portfolio-react-app/static/media/srms-web-4.aafc964ce23f4d8fa44e.png",
-    "static/media/srms-web-3.png": "/portfolio-react-app/static/media/srms-web-3.b54a32a535739c7673c9.png",
-    "static/media/design-trends-1.png": "/portfolio-react-app/static/media/design-trends-1.6795a8c82781b387912a.png",
-    "static/media/srms-web-2.png": "/portfolio-react-app/static/media/srms-web-2.87367a34a71e257d0396.png",
     "static/media/srms-mobile-2.png": "/portfolio-react-app/static/media/srms-mobile-2.5d37479fd45cdebe11bb.png",
     "static/media/srms-mobile-5.png": "/portfolio-react-app/static/media/srms-mobile-5.e7b3b6a9ad4bd5039198.png",
     "static/media/srms-mobile-4.png": "/portfolio-react-app/static/media/srms-mobile-4.04fa1cfb5ba777a5d8ef.png",
-    "static/media/srms-web-1.PNG": "/portfolio-react-app/static/media/srms-web-1.2d9ff248f3c5815e79db.PNG",
-    "static/media/tech-trends-1.png": "/portfolio-react-app/static/media/tech-trends-1.d200cce2d00efe8f6438.png",
-    "static/media/stay-inspired-1.png": "/portfolio-react-app/static/media/stay-inspired-1.dcf0fba3ff0ea913d0a0.png",
     "static/media/logo.png": "/portfolio-react-app/static/media/logo.e46c8714c1f124e1dae6.png",
     "index.html": "/portfolio-react-app/index.html",
-    "main.16819019.css.map": "/portfolio-react-app/static/css/main.16819019.css.map",
-    "main.baf5dea1.js.map": "/portfolio-react-app/static/js/main.baf5dea1.js.map"
+    "main.25b4c2a8.css.map": "/portfolio-react-app/static/css/main.25b4c2a8.css.map",
+    "main.cef2f96b.js.map": "/portfolio-react-app/static/js/main.cef2f96b.js.map"
   },
   "entrypoints": [
-    "static/css/main.16819019.css",
-    "static/js/main.baf5dea1.js"
+    "static/css/main.25b4c2a8.css",
+    "static/js/main.cef2f96b.js"
   ]
 }
