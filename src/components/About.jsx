@@ -31,7 +31,7 @@ const About = () => {
                     <p className='md:hidden text-white font-bold mb-6'>
                         delrosario.danielallen@gmail.com
                     </p>
-                    <a className='flex justify-between items-center w-full text-gray-300' href="https://www.mediafire.com/file/jze3zunxbxgxs55/Del_Rosario_Daniel_Allen-Resume.pdf/file" target="_blank">
+                    <a className='flex justify-between items-center w-full text-gray-300' href="https://drive.google.com/file/d/1Z3gBd4fZhTnPNW1v8iAYHvLTkLTywDeJ/view?usp=sharing" target="_blank">
                         <button className='md:hidden text-white group border-2 px-6 py-3 my-6 flex items-center hover:bg-[#F6BA26] hover:border-[#F6BA26] hover:text-black'>
                             Resume 
                             <span className='group:hover:rotate-90 duration-300'>
