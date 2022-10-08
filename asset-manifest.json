@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-react-app/static/css/main.25b4c2a8.css",
-    "main.js": "/portfolio-react-app/static/js/main.ad9c5e55.js",
+    "main.js": "/portfolio-react-app/static/js/main.6abb6b23.js",
     "static/media/srms-mobile-1.png": "/portfolio-react-app/static/media/srms-mobile-1.70367b0b41a5fc3a571f.png",
     "static/media/srms-mobile-3.png": "/portfolio-react-app/static/media/srms-mobile-3.81447c9214d595b16173.png",
     "static/media/srms-mobile-2.png": "/portfolio-react-app/static/media/srms-mobile-2.5d37479fd45cdebe11bb.png",
@@ -10,10 +10,10 @@
     "static/media/logo.png": "/portfolio-react-app/static/media/logo.e46c8714c1f124e1dae6.png",
     "index.html": "/portfolio-react-app/index.html",
     "main.25b4c2a8.css.map": "/portfolio-react-app/static/css/main.25b4c2a8.css.map",
-    "main.ad9c5e55.js.map": "/portfolio-react-app/static/js/main.ad9c5e55.js.map"
+    "main.6abb6b23.js.map": "/portfolio-react-app/static/js/main.6abb6b23.js.map"
   },
   "entrypoints": [
     "static/css/main.25b4c2a8.css",
-    "static/js/main.ad9c5e55.js"
+    "static/js/main.6abb6b23.js"
   ]
 }
