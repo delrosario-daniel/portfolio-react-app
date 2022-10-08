@@ -49,6 +49,103 @@ const Work = () => {
                     <p className='py-6'>// Check out some of my work</p>
                 </div>
 
+
+                {/* work category */}
+                <div>
+                    <p className='text-2xl font-bold text-[#F6BA26] py-6'>UI/UX Designs</p>
+                </div>
+                
+                {/* container */}
+                <div  className='grid sm:grid-cols-2 md:grid-cols-3 gap-4 pb-6'> 
+
+                    {/* grid item */}
+                    <div style={{backgroundImage: `url(${FocusTemplate})`}}
+                    className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+                        {/* hover effect */}
+                        <div className='opacity-0 group-hover:opacity-100'>
+                            <span className='text-2xl font-bold text-white tracking-wider'>
+                                Focus Optical Website
+                            </span>
+                            <div className='pt-8 text-center'>
+                                <Link to="/focusoptical">
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>See more</button>
+                                </Link>
+                            </div>
+                        </div>
+                    </div>
+
+                    {/* grid item */}
+                    <div style={{backgroundImage: `url(${iBayanihanTemplate})`}}
+                    className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+                        {/* hover effect */}
+                        <div className='opacity-0 group-hover:opacity-100'>
+                            <span className='text-2xl font-bold text-white tracking-wider'>
+                                iBayanihan App
+                            </span>
+                            <div className='pt-8 text-center'>
+                                <Link to="/ibayanihan">
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>See more</button>
+                                </Link>
+                            </div>
+                        </div>
+                    </div>
+
+                    {/* grid item */}
+                    <div style={{backgroundImage: `url(${NFTMarketplaceTemplate})`}}
+                    className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+                        {/* hover effect */}
+                        <div className='opacity-0 group-hover:opacity-100'>
+                            <span className='text-2xl font-bold text-white tracking-wider'>
+                                NFT Marketplace App
+                            </span>
+                            <div className='pt-8 text-center'>
+                                <Link to="/nftmarketplace">
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>See more</button>
+                                </Link>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    {/* grid item */}
+                    <div style={{backgroundImage: `url(${SRMSMobileTemplate})`}}
+                    className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+                        {/* hover effect */}
+                        <div className='opacity-0 group-hover:opacity-100'>
+                            <span className='text-2xl font-bold text-white tracking-wider'>
+                            SRMS Mobile App
+                            </span>
+                            <div className='pt-8 text-center'>
+                                <Link to="/srmsmobile">
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>See more</button>
+                                </Link>
+                            </div>
+                        </div>
+                    </div>
+
+                    {/* grid item */}
+                    <div style={{backgroundImage: `url(${SRMSWebTemplate})`}}
+                    className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+                        {/* hover effect */}
+                        <div className='opacity-0 group-hover:opacity-100'>
+                            <span className='text-2xl font-bold text-white tracking-wider'>
+                            SRMS Website
+                            </span>
+                            <div className='pt-8 text-center'>
+                                <Link to="/srmsweb">
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>See more</button>
+                                </Link>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+
                 {/* work category */}
                 <div>
                     <p className='text-2xl font-bold text-[#F6BA26] py-6'>Graphic Designs</p>
@@ -261,103 +358,6 @@ const Work = () => {
                     </div>
 
                 </div>
-
-
-                {/* work category */}
-                <div>
-                    <p className='text-2xl font-bold text-[#F6BA26] py-6'>UI/UX Designs</p>
-                </div>
-                
-                {/* container */}
-                <div  className='grid sm:grid-cols-2 md:grid-cols-3 gap-4 pb-6'> 
-
-                    {/* grid item */}
-                    <div style={{backgroundImage: `url(${FocusTemplate})`}}
-                    className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-
-                        {/* hover effect */}
-                        <div className='opacity-0 group-hover:opacity-100'>
-                            <span className='text-2xl font-bold text-white tracking-wider'>
-                                Focus Optical Website
-                            </span>
-                            <div className='pt-8 text-center'>
-                                <Link to="/focusoptical">
-                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>See more</button>
-                                </Link>
-                            </div>
-                        </div>
-                    </div>
-
-                    {/* grid item */}
-                    <div style={{backgroundImage: `url(${iBayanihanTemplate})`}}
-                    className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-
-                        {/* hover effect */}
-                        <div className='opacity-0 group-hover:opacity-100'>
-                            <span className='text-2xl font-bold text-white tracking-wider'>
-                                iBayanihan App
-                            </span>
-                            <div className='pt-8 text-center'>
-                                <Link to="/ibayanihan">
-                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>See more</button>
-                                </Link>
-                            </div>
-                        </div>
-                    </div>
-
-                    {/* grid item */}
-                    <div style={{backgroundImage: `url(${NFTMarketplaceTemplate})`}}
-                    className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-
-                        {/* hover effect */}
-                        <div className='opacity-0 group-hover:opacity-100'>
-                            <span className='text-2xl font-bold text-white tracking-wider'>
-                                NFT Marketplace App
-                            </span>
-                            <div className='pt-8 text-center'>
-                                <Link to="/nftmarketplace">
-                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>See more</button>
-                                </Link>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    {/* grid item */}
-                    <div style={{backgroundImage: `url(${SRMSMobileTemplate})`}}
-                    className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-
-                        {/* hover effect */}
-                        <div className='opacity-0 group-hover:opacity-100'>
-                            <span className='text-2xl font-bold text-white tracking-wider'>
-                            SRMS Mobile App
-                            </span>
-                            <div className='pt-8 text-center'>
-                                <Link to="/srmsmobile">
-                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>See more</button>
-                                </Link>
-                            </div>
-                        </div>
-                    </div>
-
-                    {/* grid item */}
-                    <div style={{backgroundImage: `url(${SRMSWebTemplate})`}}
-                    className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-
-                        {/* hover effect */}
-                        <div className='opacity-0 group-hover:opacity-100'>
-                            <span className='text-2xl font-bold text-white tracking-wider'>
-                            SRMS Website
-                            </span>
-                            <div className='pt-8 text-center'>
-                                <Link to="/srmsweb">
-                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>See more</button>
-                                </Link>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
 
             </div>
         </div>
