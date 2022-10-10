@@ -59,6 +59,23 @@ const Work = () => {
                 <div  className='grid sm:grid-cols-2 md:grid-cols-3 gap-4 pb-6'> 
 
                     {/* grid item */}
+                    <div style={{backgroundImage: `url(${iBayanihanTemplate})`}}
+                    className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+                        {/* hover effect */}
+                        <div className='opacity-0 group-hover:opacity-100'>
+                            <span className='text-2xl font-bold text-white tracking-wider'>
+                                UI/UX Case Study
+                            </span>
+                            <div className='pt-8 text-center'>
+                                <Link to="/ibayanihan">
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>See more</button>
+                                </Link>
+                            </div>
+                        </div>
+                    </div>
+
+                    {/* grid item */}
                     <div style={{backgroundImage: `url(${FocusTemplate})`}}
                     className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
@@ -69,23 +86,6 @@ const Work = () => {
                             </span>
                             <div className='pt-8 text-center'>
                                 <Link to="/focusoptical">
-                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>See more</button>
-                                </Link>
-                            </div>
-                        </div>
-                    </div>
-
-                    {/* grid item */}
-                    <div style={{backgroundImage: `url(${iBayanihanTemplate})`}}
-                    className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-
-                        {/* hover effect */}
-                        <div className='opacity-0 group-hover:opacity-100'>
-                            <span className='text-2xl font-bold text-white tracking-wider'>
-                                iBayanihan App
-                            </span>
-                            <div className='pt-8 text-center'>
-                                <Link to="/ibayanihan">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>See more</button>
                                 </Link>
                             </div>
